@@ -7,6 +7,7 @@ Ensure that you have the following dependencies installed in your Python environ
 - streamlit
 - plotly
 - backend module (custom module)
+  
 You can install the streamlit and plotly libraries by running the following command:
 
 Copy code
