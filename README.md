@@ -10,7 +10,6 @@ Ensure that you have the following dependencies installed in your Python environ
   
 You can install the streamlit and plotly libraries by running the following command:
 
-Copy code
 ```bash
 pip install streamlit plotly
 ```
